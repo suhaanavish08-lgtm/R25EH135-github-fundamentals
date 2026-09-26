@@ -5,3 +5,7 @@ Hello! I am Suhaan Avish Kumar, a B.Tech student specializing in Artificial Inte
 ## Skills
 
 Python, C, Git, GitHub, and basic web development.
+
+## Interests
+
+Artificial Intelligence, Data Science, software development, and technology projects.
